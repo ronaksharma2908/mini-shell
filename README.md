@@ -25,3 +25,49 @@ It replicates core Bash functionality including **pipes, redirection, background
 ---
 
 ## 📂 Project Structure
+
+mini-shell/
+│── include/          # Header files
+│   ├── shell.h
+│   ├── commands.h
+│   ├── utils.h
+│   ├── history.h
+│   ├── piping.h
+│   ├── input.h
+│   ├── jobs.h
+│── src/              # Source files
+│   ├── main.c
+│   ├── shell.c
+│   ├── commands.c
+│   ├── utils.c
+│   ├── history.c
+│   ├── piping.c
+│   ├── input.c
+│   ├── jobs.c
+│── Makefile
+│── README.md
+
+
+---
+
+📖 Learning Outcomes
+🔧 Process creation (fork, exec, waitpid)
+
+🛡️ Signal handling (SIGINT, SIGTSTP, SIGCONT)
+
+📑 File descriptors & redirection (dup2)
+
+🔗 Pipes & inter‑process communication
+
+🎛️ Job control & background process management
+
+⌨️ Readline library integration for UX
+
+🗂️ Modular project structure with headers and source files
+
+👨‍💻 Author
+Ronak  
+Built as an advanced systems programming project to explore OS internals and shell design.
+
+📜 License
+This project is licensed under the MIT License.
