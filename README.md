@@ -51,23 +51,25 @@ mini-shell/
 ---
 
 📖 Learning Outcomes
+
+
 🔧 Process creation (fork, exec, waitpid)
-
 🛡️ Signal handling (SIGINT, SIGTSTP, SIGCONT)
-
 📑 File descriptors & redirection (dup2)
-
 🔗 Pipes & inter‑process communication
-
 🎛️ Job control & background process management
-
 ⌨️ Readline library integration for UX
-
 🗂️ Modular project structure with headers and source files
 
+
+
 👨‍💻 Author
+
 Ronak  
 Built as an advanced systems programming project to explore OS internals and shell design.
 
+
+
 📜 License
+
 This project is licensed under the MIT License.
