@@ -5,10 +5,8 @@
 ![License](https://img.shields.io/badge/license-MIT-yellow.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Windows-lightgrey.svg)
 
-A fully‑featured **Unix‑like shell** written in **C**, designed as an advanced systems programming project.  
-It replicates core Bash functionality including **pipes, redirection, background jobs, job control. The **Mini Shell Project** is a lightweight implementation of a Unix-like shell written in **C language**.  
+The **Mini Shell Project** is a lightweight implementation of a Unix-like shell written in **C language**.  
 It provides basic command execution, input/output redirection, and process handling — designed to help understand how shells work internally.
-
 
 ---
 
