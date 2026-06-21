@@ -10,7 +10,17 @@ It provides basic command execution, input/output redirection, and process handl
 
 ---
 
-## 📂 Project Structure
+## ✨ Features
+- 🔹 Execute system commands (`ls`, `pwd`, `echo`, etc.)
+- 🔹 Input & Output redirection (`>`, `<`)
+- 🔹 Background process execution (`&`)
+- 🔹 Built-in commands (`cd`, `exit`)
+- 🔹 Error handling for invalid commands
+
+---
+
+
+ ## 📂 Project Structure
 
 mini-shell/
 │── include/          # Header files
