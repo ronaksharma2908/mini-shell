@@ -58,7 +58,7 @@ mini-shell/
 ⌨️ Readline library integration for UX
 🗂️ Modular project structure with headers and source files
 
-
+---
 
 👨‍💻 Author
 
