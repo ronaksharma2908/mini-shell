@@ -42,6 +42,7 @@ mini-shell/
 │   ├── jobs.c
 │── Makefile
 │── README.md
+...
 
 
 ---
