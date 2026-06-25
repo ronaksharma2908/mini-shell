@@ -65,7 +65,7 @@ mini-shell/
 Ronak  
 Built as an advanced systems programming project to explore OS internals and shell design.
 
-
+---
 
 📜 License
 
