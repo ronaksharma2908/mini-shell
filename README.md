@@ -56,7 +56,7 @@ mini-shell/
 🔗 Pipes & inter‑process communication
 🎛️ Job control & background process management
 ⌨️ Readline library integration for UX
-🗂️ Modular project structure with headers and source files
+🗂️ Modular project structure with headers and source files . 
 
 ---
 
